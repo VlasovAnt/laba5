@@ -1,6 +1,6 @@
 class Main{
     public static void main(String[] args) {
         System.out.print("Это добавлено в ветке main");
-        System.out.println("first change");
+        System.out.println("new update in Main");
     }
 }
